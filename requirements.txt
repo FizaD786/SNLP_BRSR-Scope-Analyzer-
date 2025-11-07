@@ -1,0 +1,11 @@
+streamlit>=1.24.0
+fitz  # PyMuPDF; alias 'PyMuPDF' package name
+PyMuPDF>=1.22.0
+spacy>=3.0.0
+pandas
+nltk
+plotly
+transformers>=4.0.0
+torch   # required for transformers; choose CPU or GPU appropriate wheel
+gensim
+regex
